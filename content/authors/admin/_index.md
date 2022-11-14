@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Bighetti 吳恩達
+title: Nurul Muktar
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Bighetti
+first_name: Nurul
+last_name: Muktar
 
 # Is this the primary user of the site?
 superuser: true
